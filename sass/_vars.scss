@@ -36,7 +36,7 @@ $size-nav-icon:				1.75em;
 	}
 
 	#bg {
-		background-size: $width auto;
+		background-size: cover;
 		width: ($width * 3);
 	}
 }
